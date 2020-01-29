@@ -1,13 +1,7 @@
-# Cognitive Services for Computer Vision - Facial Recognition
-### Talk in TDC SP 2019 Event<br>Track: Cognitive Computing<br>Date: Jun, 16 2019
+# Cognitive Services for Facial Recognition
+### Online Talk for DevelopersBR<br>Subject: Using Azure Cognitive Services for Facial Recognition<br>Date: Jan, 31 2020
 
-**Comparison between four vendors:**
-- Amazon Rekognition
-- Microsoft Face API
-- IBM Watson Visual Recognition
-- Chooch
-
-**After this comparison, you'll be able to:**
+**After this notebook, you'll be able to:**
 - Store images in a "database" for using in facial recognition
 - "Train" model with faces database, generating face embeddings (faceprints)
 - Run face recognition on a new image
